@@ -11,6 +11,7 @@ Using python to wrapping weather data from the websites
         end: use for wrapping with a range with from start to end, datetime type variable </br>
         
         return: </br>
+        
         --------------------------------------
         |0      |MinTemp|MaxTemp|RainFall|...|
         |-------|-------|-------|--------|---|
