@@ -18,3 +18,6 @@ Using python to wrapping weather data from the websites
         |Date   |       |       |        |   |
         |2016-02-03|1x.x| 1x.x  | 2xx.x  |   |
         
+## TODO:
+1. May be write a bot of telegrame to wrap weather
+2. Make more function
